@@ -1,0 +1,112 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #DFDFDF;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.Titulo{
+	text-align: center;
+	font-weight: normal;
+	margin: 50px;
+}
+
+.Todo{
+	width: 950px;
+	margin: auto;
+	height: 1300px;
+	background-color: #343166;
+	margin-bottom: 35px; 
+}
+
+.Izquierda{
+	width: 30%;
+	height: 200px;
+	background-color: #343166;
+	float: left;
+	text-align: center;
+}
+
+.Izquierda img{
+	width: 50%;
+	margin-top: 40px;
+	border-radius: 50%;
+	border: 6px solid #EBF4FF;
+	padding: 7px;
+}
+
+.Nombre{
+	font-size: 25px;
+	color: #EBF4FF;
+}
+
+.Seccion{
+	width: 79%;
+	background-color: #36CAE0;
+	padding: 10px;
+	text-align: left;
+	margin-top: 20px;
+}
+
+.Seccion b{
+	font-weight: normal;
+	font-size: 20px;
+	margin-left: 25px;
+}
+
+.Perfil{
+	text-align: left;
+	font-size: 17px;
+	color: #EBF4FF;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.Perfil b{
+	font-weight: normal;
+}
+
+.Contacto{
+	font-size: 17px;
+	color: #EBF4FF;
+	text-align: left;
+	list-style: none;
+	line-height: 2.5;
+	margin-left: -15px;
+}
+
+.Derecha{
+	width: 70%;
+	height: 1230px;
+	background-color: #EBF4FF;
+	float: left;
+	margin-top: 35px;
+}
+
+.Seccion_der{
+	width: 87%;
+	background-color: #36CAE0;
+	padding: 10px;
+	text-align: left;
+	margin-left: 10%;
+	margin-top: 30px;
+	float: left;
+}
+
+.Experiencia{
+	width: 88%;
+	margin-left: 80px;
+}
+
+.Tiempo{
+	width: 26%;
+	float: left;
+	margin-top: 30px;
+	margin-right: 25px;
+}
+
+.Labor{
+	width: 67%;
+	float: left;
+	margin-top: 30px;
+}
